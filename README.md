@@ -1,7 +1,7 @@
 # Using the Python API of the Openstack SDK
 
 ## Used sources:
-  Openstack SDK souce - https://github.com/openstack/openstacksdk
+  Openstack SDK source - https://github.com/openstack/openstacksdk
   openstack SDK documentation - https://docs.openstack.org/openstacksdk/latest/
 
 ## Preparation:
