@@ -1,10 +1,10 @@
  Using the Python API of the Openstack SDK
 
-Used sources:
+## Used sources:
   Openstack SDK souce - https://github.com/openstack/openstacksdk
   openstack SDK documentation - https://docs.openstack.org/openstacksdk/latest/
 
-Preparation:
+## Preparation:
   Install the python3-openstacksdk package
 
 The documentation of the CLI openstack tool covers much more APIs than the Python API documentation
