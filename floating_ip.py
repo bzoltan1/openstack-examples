@@ -27,5 +27,5 @@ print("Created floating IP %s" % f_ip_address)
 # Add the available floating IP to the server
 cloud.compute.add_floating_ip_to_server(server=cloud_server,address=floating_ip)
 
-cloud.pprint(server)
+cloud.pprint(cloud_server)
 
