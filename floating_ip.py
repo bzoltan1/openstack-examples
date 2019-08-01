@@ -10,7 +10,7 @@ openstack.enable_logging(debug=True)
 cloud = openstack.connect(cloud='engineering')
 
 
-cloud_server = cloud.get_server('openstack-example-test')
+cloud_server = cloud.get_server('bzoltan-jeos')
 
 # List available floating IPs
 f_ip=cloud.available_floating_ip(network='floating')
